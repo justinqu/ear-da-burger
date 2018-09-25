@@ -7,6 +7,9 @@
     "test": "",
     "start": "node server.js"
   },
+  "engine": {
+    "node": "8.11.1"
+  },
   "author": "Justin Quinonez",
   "license": "MIT",
   "dependencies": {
